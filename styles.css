@@ -75,7 +75,7 @@ body {
 .header {
   min-height: 600px;
   background-image: radial-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.9)),
-    url("../images/IMG_8379.JPG");
+    url("./IMG_8379.JPG");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -532,7 +532,7 @@ img {
 
 .blog {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("../images/0B4B3704.JPG");
+    url("./0B4B3704.JPG");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
